@@ -1,4 +1,4 @@
-def readNumbers(): #verificar número -1
+def readNumbers(): 
     number = 0
     numberList = []
 
